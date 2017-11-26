@@ -17,7 +17,4 @@
   <eClassifiers xsi:type="ecore:EClass" name="Text" eSuperTypes="#//Component"/>
   <eClassifiers xsi:type="ecore:EClass" name="Header" eSuperTypes="#//Component"/>
   <eClassifiers xsi:type="ecore:EClass" name="Icon" eSuperTypes="#//Component"/>
-  <eClassifiers xsi:type="ecore:EClass" name="kkl">
-    <eStructuralFeatures xsi:type="ecore:EAttribute"/>
-  </eClassifiers>
 </ecore:EPackage>
